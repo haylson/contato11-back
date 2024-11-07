@@ -1,4 +1,4 @@
-package com.hm.selecao.domain.enums;
+package com.hm.contato.domain.enums;
 
 public enum TipoEndereco {
 	

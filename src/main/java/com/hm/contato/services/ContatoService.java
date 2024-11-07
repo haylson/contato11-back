@@ -1,4 +1,4 @@
-package com.hm.selecao.services;
+package com.hm.contato.services;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,11 +6,11 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.hm.selecao.domain.Contato;
-import com.hm.selecao.domain.dtos.ContatoDTO;
-import com.hm.selecao.repositories.ContatoRepository;
-import com.hm.selecao.services.exceptions.DataIntegrityViolationException;
-import com.hm.selecao.services.exceptions.ObjectNotFoundException;
+import com.hm.contato.domain.Contato;
+import com.hm.contato.domain.dtos.ContatoDTO;
+import com.hm.contato.repositories.ContatoRepository;
+import com.hm.contato.services.exceptions.DataIntegrityViolationException;
+import com.hm.contato.services.exceptions.ObjectNotFoundException;
 
 import javax.validation.Valid;
 

@@ -1,4 +1,4 @@
-package com.hm.selecao.resources.exceptions;
+package com.hm.contato.resources.exceptions;
 
 import java.util.ArrayList;
 import java.util.List;

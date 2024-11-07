@@ -1,6 +1,6 @@
-package com.hm.selecao.domain;
+package com.hm.contato.domain;
 
-import com.hm.selecao.domain.enums.TipoEndereco;
+import com.hm.contato.domain.enums.TipoEndereco;
 
 import javax.persistence.Entity;
 import javax.persistence.EnumType;

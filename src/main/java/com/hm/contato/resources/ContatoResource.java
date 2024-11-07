@@ -1,13 +1,13 @@
-package com.hm.selecao.resources;
+package com.hm.contato.resources;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.hm.selecao.domain.Contato;
-import com.hm.selecao.domain.dtos.ContatoDTO;
-import com.hm.selecao.services.ContatoService;
+import com.hm.contato.domain.Contato;
+import com.hm.contato.domain.dtos.ContatoDTO;
+import com.hm.contato.services.ContatoService;
 
 import javax.validation.Valid;
 import javax.ws.rs.Consumes;

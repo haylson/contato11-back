@@ -1,4 +1,4 @@
-package com.hm.selecao.domain;
+package com.hm.contato.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import javax.persistence.Entity;
 
-import com.hm.selecao.domain.dtos.ContatoDTO;
+import com.hm.contato.domain.dtos.ContatoDTO;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

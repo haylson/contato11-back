@@ -1,4 +1,4 @@
-package com.hm.selecao.resources.exceptions;
+package com.hm.contato.resources.exceptions;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -9,8 +9,9 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.hm.selecao.services.exceptions.DataIntegrityViolationException;
-import com.hm.selecao.services.exceptions.ObjectNotFoundException;
+import com.hm.contato.services.exceptions.DataIntegrityViolationException;
+import com.hm.contato.services.exceptions.ObjectNotFoundException;
+
 
 @ControllerAdvice
 public class ResourceExceptionHandler {

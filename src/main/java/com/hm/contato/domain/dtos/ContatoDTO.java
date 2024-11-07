@@ -1,8 +1,8 @@
-package com.hm.selecao.domain.dtos;
+package com.hm.contato.domain.dtos;
 
 import java.io.Serializable;
 
-import com.hm.selecao.domain.Contato;
+import com.hm.contato.domain.Contato;
 
 import javax.validation.constraints.NotNull;
 

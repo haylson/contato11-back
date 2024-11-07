@@ -1,4 +1,4 @@
-package com.hm.selecao.services.exceptions;
+package com.hm.contato.services.exceptions;
 
 public class DataIntegrityViolationException extends RuntimeException {
 

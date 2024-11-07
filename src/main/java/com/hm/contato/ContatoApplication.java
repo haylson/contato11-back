@@ -1,13 +1,13 @@
-package com.hm.selecao;
+package com.hm.contato;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SelecaoApplication {
+public class ContatoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SelecaoApplication.class, args);
+		SpringApplication.run(ContatoApplication.class, args);
 	}
 
 }
