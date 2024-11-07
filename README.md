@@ -3,6 +3,7 @@ Sistema para estudos, CRUD de contatos via Api Rest utilizando RESTful API JAX-R
 Tecnologias:
 
 - Java 11
+- STS 4.10.0.RELEASE
 
 - Spring Boot v2.3.12.RELEASE
 
