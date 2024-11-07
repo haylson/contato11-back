@@ -18,4 +18,4 @@ Soluções:
 
 
 Pontos de Melhoria:
-- Melhorar o tratamento de exceções para respostas erro mais amigáveis no response da requisão utilizando o Jersey.
+- Melhorar o tratamento de exceções para respostas de erro mais amigáveis no response da requisição utilizando o Jersey.
